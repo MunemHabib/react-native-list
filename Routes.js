@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 
-import Flattsil from './src/Flattsil';
 import Search from './src/Search';
 import {Router, Scene} from 'react-native-router-flux';
 
